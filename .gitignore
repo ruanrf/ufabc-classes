@@ -1,3 +1,4 @@
 AED I/Arquivos/
 AED I/*/*.exe
-AED I/Atividades
+AED I/*/*/*.exe
+.vscode
