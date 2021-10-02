@@ -2,9 +2,9 @@
 
 No primeiro laboratório da disciplina, foi elaborado um jogo da forca.
 
-O jogo consiste na escolha de uma palavra aleatória dentre as pré-definidas no arquivo Palavras.txt. 
+O jogo consiste na escolha de uma <b>palavra aleatória</b> dentre as pré-definidas no arquivo Palavras.txt. 
 
-O número de tentativas foi definido como "comprimento da palavra + dificuldade", sendo a dificuldade padrão "3".
+O <b>número de tentativas</b> foi definido como "<b>comprimento da palavra + dificuldade</b>", sendo a dificuldade padrão "3".
 
 
 ### O jogo é constituído por:
