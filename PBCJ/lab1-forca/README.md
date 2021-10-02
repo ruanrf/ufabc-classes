@@ -7,12 +7,12 @@ O jogo consiste na escolha de uma palavra aleatória dentre as pré-definidas no
 O número de tentativas foi definido como "comprimento da palavra + dificuldade", sendo a dificuldade padrão "3".
 
 
-## O jogo é constituído por cenas de
+### O jogo é constituído por:
 * <b>Início</b>
 * <b>Jogo</b>
 * <b>Cena de vitória</b> (caso a palavra seja descoberta dentro do número de tentativas)
 * <b>Cena de derrota</b> (caso se esgotem as tentativas)
-* <b>créditos</b>
+* <b>Créditos</b>
 
 <h1> Imagens:</h1>
 
