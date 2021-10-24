@@ -1,5 +1,5 @@
 # ufabc-classes
-Personal programs from classes - exercises, theory, a bit of everything.
+Personal programs from classes - exercises, theory, a pinch of everything.
 
 ## Classes
 + <a href="https://github.com/ruanrf/ufabc-classes/tree/master/AED%20I">Algoritmos e Estruturas de Dados I</a>
